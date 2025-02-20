@@ -5,7 +5,7 @@ body {
 }
 
 .overlay {
-    background-color: rgba(255, 255, 255, 0.5); /* Define a segunda camada de cor com opacidade */
+    background-color: rgb(255, 255, 255); /* Define a segunda camada de cor com opacidade */
     position: absolute; /* Posiciona o elemento de forma absoluta */
     top: 0;
     left: 0;
@@ -16,7 +16,7 @@ body {
 
 /* Estiliza o título principal */
 h1 {
-    color: #000000f7;
+    color: #9f1e1ef7;
     text-align: center;
     margin-top: 20px;
 }
