@@ -5,6 +5,12 @@ body {
     margin: 0;
     padding: 0;
 }
+body {
+    background-color: #e4d2d2;
+    font-family: Arial, sans-serif;
+    margin: 10%;
+    padding: 10%;
+}
 
 /* Estiliza o título principal */
 h1 {
