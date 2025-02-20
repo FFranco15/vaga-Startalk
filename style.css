@@ -27,7 +27,7 @@ p {
     font-size: 16px;
     text-align: left;
     margin: 20px auto;
-    width: 50%;
+    width: -50%;
 }
 
 /* Estiliza os links */
