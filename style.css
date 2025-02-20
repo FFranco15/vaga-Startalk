@@ -1,9 +1,15 @@
 /* Define a cor de fundo para o corpo da página */
 body {
+    background-color: #ecf01cc5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body {
     background-color: #e4d2d2;
     font-family: Arial, sans-serif;
-    margin: 0%;
-    padding: 0%;
+    margin: 10%;
+    padding: 10%;
 }
 
 /* Estiliza o título principal */
