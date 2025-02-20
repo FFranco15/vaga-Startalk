@@ -1,11 +1,11 @@
 body {
-    background-color: #f0f0f0; /* Define a cor de fundo */
+    background-color: #000000; /* Define a cor de fundo */
     margin: 0; /* Remove margens padrão */
     position: relative; /* Garante que o overlay seja posicionado corretamente */
 }
 
 .overlay {
-    background-color: rgba(0, 0, 0, 0.5); /* Define a segunda camada de cor com opacidade */
+    background-color: rgba(255, 255, 255, 0.5); /* Define a segunda camada de cor com opacidade */
     position: absolute; /* Posiciona o elemento de forma absoluta */
     top: 0;
     left: 0;
