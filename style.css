@@ -1,22 +1,14 @@
+/* Define a cor de fundo para o corpo da página */
 body {
-    background-color: #000000; /* Define a cor de fundo */
-    margin: 0; /* Remove margens padrão */
-    position: relative; /* Garante que o overlay seja posicionado corretamente */
-}
-
-.overlay {
-    background-color: rgb(255, 255, 255); /* Define a segunda camada de cor com opacidade */
-    position: absolute; /* Posiciona o elemento de forma absoluta */
-    top: 10;
-    left: 10;
-    width: 50%;
-    height: 50%;
-    pointer-events: none; /* Para garantir que o conteúdo abaixo seja clicável */
+    background-color: #e4d2d2;
+    font-family: Arial, sans-serif;
+    margin: -10%;
+    padding: -10%;
 }
 
 /* Estiliza o título principal */
 h1 {
-    color: #9f1e1ef7;
+    color: #000000f7;
     text-align: center;
     margin-top: 20px;
 }
@@ -27,7 +19,7 @@ p {
     font-size: 16px;
     text-align: left;
     margin: 20px auto;
-    width: -50%;
+    width: 80%;
 }
 
 /* Estiliza os links */
