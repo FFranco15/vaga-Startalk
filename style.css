@@ -30,4 +30,9 @@ a {
 
 a:hover {
     text-decoration: underline;
+    /* style.css */
+.audio-container {
+    display: block;
+    margin-bottom: 20px; /* Espaço entre o áudio e o link */
+}
 }
